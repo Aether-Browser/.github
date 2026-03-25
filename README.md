@@ -34,6 +34,7 @@ Aether is defined by its **Glassmorphic** aesthetic and a high-contrast palette:
 * **Official Home:** [aether-browser.org](https://aether-browser.org)
 * **Status:** Under Active Development 🛠️
 * **Environment:** Built with ❤️ on Ubuntu using Zed.
+* **Official Discord Server:** [Aether Discord Server](https://discord.gg/zBjyAxBEdZ)
 
 ---
 
